@@ -28,8 +28,7 @@ while True:
 ```
 
 ### Server :
-```
-python
+```python
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -47,11 +46,11 @@ Refer to the following screenshot to view the output of the program.
 
 ### OUTPUT :
 
-![alt text](<3B output.png>)
+![alt text](output3b.png)
 
 ### CLIENT AND SERVER :
 
-![alt text](< client and server.png>)
+![alt text](terminal.png)
 
 
 ## RESULT
